@@ -1,3 +1,5 @@
+Product Thoughts
+================
 I take no credit for the authoring any of these thoughts on Product. This list of raw thoughts has found ways to make sense to me. Many of the items likely could be refined to make sense to others. 
 
 - Vision – directional statements that we work towards. Strategy – is the how, what are the high level strategy items for the next Y months. Problem statements (1:M) – what problems is your customers, business, etc are trying to solve. 
