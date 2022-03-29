@@ -18,7 +18,7 @@ I take no credit for the authoring any of these quotes other the effort organizi
 - Learn to fall, fall fast, fall often! 
 - Embrace diversity!​
 - Save yourself 4 hours by investing 20 minutes in reading the docs!​
-- Cultivate the mindset of learning and experimentation ​
+- Cultivate the mindset of learning and experimentation 
 - Measure it!​
 - T.E.A.M - (Together everyone accomplishes more)​
 - Heroics don't scale
@@ -29,3 +29,4 @@ I take no credit for the authoring any of these quotes other the effort organizi
 - Death by a thousand paper cuts "it’s just a little change"
 - Work on the most important things
 - You can argue on priorities but you can't argue the results 
+- Strive towards direction, not perfprection
