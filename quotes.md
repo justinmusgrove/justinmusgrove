@@ -30,3 +30,4 @@ I take no credit for the authoring any of these quotes other the effort organizi
 - Work on the most important things
 - You can argue on priorities but you can't argue the results 
 - Strive towards direction, not perfprection
+- Make the right thing the easiest thing
