@@ -30,4 +30,10 @@ I take no credit for the authoring any of these quotes other the effort organizi
 - Work on the most important things
 - You can argue on priorities but you can't argue the results 
 - Strive towards direction, not perfprection
+- No Cookie Licking - You see something you really like but don't have time to eat it then so you lick it and put in on your desk so no one else takes it!
+- Momentum matters, start small, do it well, iterate often!
+- Goals and Metrics are waypoints, they help us measure speed and distance/progress. They are not the goal, the true goal is ourselves, how do we get better than last year? We need to be obsessed with improving ourselves rather than trying to beat our competition
+- Slow rolling things is demotivating and expensive, it prevents us from starting new things 
+- "Stop starting and start finishing"
+ - It if takes 5 years to build it then by the time you deliver it is already 5 years old
 - Make the right thing the easiest thing
