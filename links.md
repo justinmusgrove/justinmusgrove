@@ -68,6 +68,7 @@ Articles
 - [The 25 Micro-Habits of High-Impact Managers](https://review.firstround.com/the-25-micro-habits-of-high-impact-managers#1-dont-swerve-around-a-debate)
 - [REDEFINING HEROICS](https://www.leadingagile.com/2014/03/redefining-heroics/)
 - [Leadership vs. Management](https://svpg.com/leadership-vs-management/)
+- [MindSpring Presents: "Greatness" by David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)
 
 Books
 -----
