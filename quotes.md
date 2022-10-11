@@ -39,3 +39,4 @@ I take no credit for the authoring any of these quotes other the effort organizi
 - Make the right thing the easiest thing
 - What doesn't challenge us doesn't change us
 - [how do you make it easier to adopt the behavior than not to adopt the behavior](https://www.lennysnewsletter.com/p/teresa-torres-on-how-to-interview#details)
+- talk is cheap, so we should do more of it!
