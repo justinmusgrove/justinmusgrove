@@ -36,7 +36,7 @@ Articles
 - [Backlog Grooming Bugs Me](https://www.jpattonassociates.com/backlog-grooming-bugs-me/)
 - [Visual guide to the best books on product management](https://www.delibr.com/post/visual-guide-to-the-best-books-on-product-management?ref=producthunt)
 - [Dual-track Sprint/Iteration Planning Recipe](https://www.jpattonassociates.com/dual-track-sprint-planning/)
-
+- [10 INTANGIBLE TRAITS OF A GREAT PRODUCT MANAGER](https://adriancrook.com/10-intangible-traits-of-exceptional-product-managers/)
 
 Books
 -----
