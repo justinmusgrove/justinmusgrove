@@ -8,6 +8,7 @@ Articles
 - [Accelerate: High Performing Behavior Practices Diagram](https://files.ontraport.com/media/phpleXP7K?Expires=1730762516&Signature=P~VbcKyK7C3dsOosbxDMTx10LxI9Z7qPOCf71ywoa~YvAfQtB7lFZnLarBbfiGTeP53PqN5FervF4hycT5WyzCmcgDwzT~ZUIz81pXZjIeFlgtkdMpljnTrSmlXs0bi5fpWBZF~JTTHLgd-iOo6QoSukjk7Hqtd2s1Q73zBjtc6uqlJNoydoRd7hUO4RS5YAJ8knqiLvI2AkQL3E2V3Bz4guvz7~goKj1lee0ryQT2sz~38Qu~VoROPQ7zge2KUvIbp6CDGadGb0cAI7DkNn8hmoZRrKj7VXdfATGZD0958YXijHq0t9U9QxDBqsHFt~U-JabEHdXslTSA6a~0oFtQ__&Key-Pair-Id=APKAJVAAMVW6XQYWSTNA)
 - [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 - [The Big Book Of Dead Code](http://ryber.github.io/blog/2011/04/19/the-big-book-of-dead-code/)
+- [Engineering strategy](https://lethain.com/eng-strategies/)
 
 Books
 -----
