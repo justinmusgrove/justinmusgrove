@@ -44,7 +44,7 @@ Books
 - [Empowered: Ordinary People, Extraordinary Products (Silicon Valley Product Group)](https://www.amazon.com/EMPOWERED-Ordinary-Extraordinary-Products-Silicon/dp/111969129X)
 - [Product Roadmaps Relaunched: How to Set Direction while Embracing Uncertainty](https://www.amazon.com/Product-Roadmaps-Relaunched-Direction-Uncertainty-ebook/dp/B076VX53K1)
 - [Lean Customer Development: Building Products Your Customers Will Buy](https://www.amazon.com/Lean-Customer-Development-Hardcover-version/dp/1449356354)
-
+- [Continuous Discovery Habits: Discover Products that Create Customer Value and Business Value](https://www.amazon.com/Continuous-Discovery-Habits-Discover-Products/dp/1736633309)
 
 User experience 
 ===============
