@@ -70,6 +70,7 @@ Articles
 - [REDEFINING HEROICS](https://www.leadingagile.com/2014/03/redefining-heroics/)
 - [Leadership vs. Management](https://svpg.com/leadership-vs-management/)
 - [MindSpring Presents: "Greatness" by David Marquet](https://www.youtube.com/watch?v=OqmdLcyES_Q)
+- [High agency](https://www.techtello.com/high-agency/)
 
 Books
 -----
