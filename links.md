@@ -9,6 +9,7 @@ Articles
 - [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 - [The Big Book Of Dead Code](http://ryber.github.io/blog/2011/04/19/the-big-book-of-dead-code/)
 - [Engineering strategy](https://lethain.com/eng-strategies/)
+- [DevEx Principles](https://kathykorevec.substack.com/p/devex-principles-chef-cooking-for)
 
 Books
 -----
